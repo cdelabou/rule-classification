@@ -1,0 +1,9 @@
+[submodule "C4.5/Python"]
+	path = C4.5/Python
+	url = https://github.com/banilaste/C4.5
+[submodule "CART"]
+	path = CART
+	url = https://github.com/Valdecy/CART.git
+[submodule "ID3/machine-learning-tutorials"]
+	path = ID3/machine-learning-tutorials
+	url = https://github.com/Bladefidz/machine-learning-tutorials
