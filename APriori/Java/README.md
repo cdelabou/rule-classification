@@ -1,6 +1,6 @@
 # Algorithme APriori
 
-Plus de documentation et auteurs du code [ici](cba.html).
+Plus de documentation et auteurs du code [ici](http://cgi.csc.liv.ac.uk/~frans/KDD/Software/CBA/cba.html) ou dans le fichier `cba.html`.
 
 ## Compilation
 
