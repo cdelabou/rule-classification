@@ -4,6 +4,6 @@
 [submodule "CART"]
 	path = CART
 	url = https://github.com/Valdecy/CART.git
-[submodule "ID3/machine-learning-tutorials"]
-	path = ID3/machine-learning-tutorials
-	url = https://github.com/Bladefidz/machine-learning-tutorials
+[submodule "ID3"]
+	path = ID3
+	url = https://github.com/gaunthan/ID3-Implement.git
