@@ -4,13 +4,21 @@ Ce dépot regroupe différent algorithmes de classification par règle, avec leu
 
 Les algorithmes suivant sont pour le moment implémentés :
 - APriori
+- ID3
 - C4.5
 - CART
-- ID3
 
 Un autre algorithme hors sujet (ne pouvant pas générer de règles) est aussi présent (voir `NaiveBayes`).
 
 ## APriori
+
+Génère des règles d'association
+
+### Sources et documentation
+
+## ID3
+
+Algorithme générant un arbre de décision à partir d'un ensemble de données classifié.
 
 ### Sources et documentation
 
@@ -22,10 +30,8 @@ Un autre algorithme hors sujet (ne pouvant pas générer de règles) est aussi p
 
 ### Sources et documentation
 
-## ID3
+## Classification Naive Bayésienne
 
-### Sources et documentation
-
-## Classification Naive Bayésienne (hors sujet)
+Créé un classificateur à partir de données statistiques des classes.
 
 ### Sources et documentation

@@ -1,4 +1,4 @@
-import { Datacase, KRuleItem, Items } from "../../types";
+import { Datacase, KRuleItem, Items } from "./types";
 
 // -> http://cgi.csc.liv.ac.uk/~frans/KDD/Software/CBA/cba.html
 // voir https://zestedesavoir.com/tutoriels/962/les-arbres-de-decisions/premiere-version-id13/
