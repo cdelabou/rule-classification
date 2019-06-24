@@ -3,19 +3,19 @@ const fs = require("fs");
 let idCount = 1;
 
 // Arguments
-const A_REDUCE_DATA_REDUNDANCY = idCount ++;
-const A_TECHNOLOGICAL_OBSTACLE = idCount ++;
 const A_IMPROVE_EFFICIENCY = idCount ++;
 const A_EASY_ACCESS = idCount ++;
 const A_INCREASE_BUDGET = idCount ++;
 const A_COMPLEX_DEVELOPMENT = idCount ++;
-const A_EASY_IMPLEMENTATION = idCount ++;
 const A_NEED_DATA_SYNC = idCount ++;
 const A_CREATE_DATA_REDUNDANCY = idCount ++;
 const A_EASY_ADMINISTRATION = idCount ++;
+const A_REDUCE_DATA_REDUNDANCY = idCount ++;
+const A_TECHNOLOGICAL_OBSTACLE = idCount ++;
+const A_EASY_IMPLEMENTATION = idCount ++;
 const A_REQUIRE_USER_WITH_MECANICAL_SKILLS = idCount ++;
-const A_SECURE_INFO_CONFIDENTIALITY = idCount ++;
 const A_IMPROVE_SEARCHING = idCount ++;
+const A_SECURE_INFO_CONFIDENTIALITY = idCount ++;
 const A_EVADE_FREQUENT_COMMUNICATION_BETWEEN_MODULES = idCount ++;
 console.log(idCount)
 export const ARGUMENTS_COUNT = idCount;
@@ -148,7 +148,7 @@ const project2014: Issue = {
 		{
 			id: P_INFORMATION_EXCHANGE_ERP_PLM,
 			defend: [
-				A_REDUCE_DATA_REDUNDANCY
+				A_TECHNOLOGICAL_OBSTACLE
 			],
 			criticize: [ ]
 		},

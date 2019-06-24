@@ -1,9 +1,12 @@
-[submodule "C4.5/Python"]
-	path = C4.5/Python
-	url = https://github.com/banilaste/C4.5
 [submodule "CART"]
 	path = CART
 	url = https://github.com/Valdecy/CART.git
 [submodule "ID3"]
 	path = ID3
 	url = https://github.com/gaunthan/ID3-Implement.git
+[submodule "APriori"]
+	path = APriori
+	url = https://github.com/asaini/Apriori.git
+[submodule "C4.5"]
+	path = C4.5
+	url = https://github.com/banilaste/C4.5

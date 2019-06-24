@@ -12,7 +12,7 @@ Un autre algorithme hors sujet (ne pouvant pas générer de règles) est aussi p
 
 ## APriori
 
-Génère des règles d'association
+Génère des règles d'association et/ou de classifications récurrentes à partir d'ensembles de données.
 
 ### Sources et documentation
 
