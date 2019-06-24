@@ -1,4 +1,4 @@
-# ID 3
+# ID3
 
 L'implémentation se trouve dans le dossier `machine-learning-tutorials/decision-tree` et répond au nom de `decision_tree.py`.
 

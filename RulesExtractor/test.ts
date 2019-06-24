@@ -1,4 +1,4 @@
-import C4dot5, { Leaf, Node, matches, displayTree } from "./c4dot5";
+import extractRules, { Leaf, Node, matches, displayTree } from "./RulesExtractor";
 import importCSV from "./csv"
 
 const SUNNY = 0, OVERCAST = 1, RAIN = 2;
@@ -11,7 +11,7 @@ const SETOSA = "setosa", VIRGINICA = "virginica", VERSICOLOR = "versicolor";
 export default async function test(filename: string, compareTree: Node) {
 	const { dataset, mapping } = await importCSV(filename);
 
-	const tree = C4dot5(dataset);
+	const tree = extractRules(dataset);
 
 	// Show success rate of first set
 	let success = dataset.reduce((acc, datacase) => matches(datacase, tree) ? acc + 1 : acc, 0);	
